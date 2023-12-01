@@ -16,4 +16,4 @@
 
 Producer-Consumer 모델같은 경우 생산자가 저장할 공간이 없거나 소비자가물건을 가져올 수 없을 때를 초점으로 코드를 만들었다. 
 Reader-Writer 모델같은 경우 Writer와 Reader의 기아 문제나 Reader의 수가 많아지면 그만큼 Writer가 일을 처리 하지 못하는 문제를 초점으로 코드를 만들었다.
-# -2
+
